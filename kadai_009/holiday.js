@@ -9,8 +9,8 @@ console.log(holidays[i]);
 // while文で配列の要素を出力する
 let i = 0;
 while (i <= 15){
-  i = i + 1;
   console.log(holidays[i]);
+  i = i + 1;
 }
 
 
