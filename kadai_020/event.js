@@ -1,4 +1,4 @@
-// 
+// id名btnを持つ要素を取得して定数に代入
 const btn = document.getElementById('btn');
 
 // ボタンをクリックした時の動作
